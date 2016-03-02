@@ -1,0 +1,8 @@
+Collecting Django==1.9.2 (from -r ./requirements.conf (line 1))
+  Downloading Django-1.9.2-py2.py3-none-any.whl (6.6MB)
+Collecting django-extensions==1.6.1 (from -r ./requirements.conf (line 2))
+  Downloading django_extensions-1.6.1-py2.py3-none-any.whl (202kB)
+Collecting six>=1.2 (from django-extensions==1.6.1->-r ./requirements.conf (line 2))
+  Downloading six-1.10.0-py2.py3-none-any.whl
+Installing collected packages: Django, six, django-extensions
+Successfully installed Django-1.9.2 django-extensions-1.6.1 six-1.10.0
